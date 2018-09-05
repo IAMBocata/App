@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IAM Bocata</string>
+    <string name="laEtUsernameHint">Usuario</string>
+    <string name="glaBtnOther">No entras con cuenta de Google?</string>
+    <string name="TextQR">Muestra este codigo QR al personal del bar para identificarte y poder ingresar el dinero.</string>
+    <string name="addProductToCheckOut">AÑADIR AL CARRITO</string>
+    <string name="valorsNutricionalsButton">VEURE VALORS NUTRICIONALS</string>
+    <string name="laEtPasswordHint">Contraseña</string>
+    <string name="laBtnLogin">ENTRA</string>
+    <string name="paEtUnits">Unidades</string>
+    <string name="titleIngredients">Ingredientes:</string>
+    <string name="titleProductsFragment">Productos</string>
+    <string name="titleHistoryFragment">Historial de Compras</string>
+    <string name="titleFavouritesFragment">Productos Favoritos</string>
+    <string name="titleCheckOutFragment">Carrito</string>
+    <string name="titleAddMoneyFragment">Añadir Saldo</string>
+    <string name="titleConfigurationActivity">Configuración</string>
+    <string name="titleHelpActivity">Ayuda</string>
+    <string name="titleAboutActivity">Acerca de IAM Bocata</string>
+    <string name="titleMainActivity">Página principal</string>
+    <string name="googleloginerror">Usuario deshabilitado.</string>
+    <string name="aboutLicenses">LICENCIA</string>
+    <string name="aboutVersion">Versión 1.0</string>
+    <string name="last_prod_added">Añadido recientemente</string>
+    <string name="daily_product">Producto del dia</string>
+    <string name="loginerror">Usuario/Contraseña invalidos</string>
+    <string name="titleLogoutPreferenceButton">Cerrar sesión</string>
+    <string name="notifications">Notificacions activadas</string>
+</resources>

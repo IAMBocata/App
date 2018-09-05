@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <!-- PARA QUE SE VEA LA LINIA DIVISORIA ENTRE GROUPS HAY QUE DEFINIR ID -->
+    <group android:id="@+id/nav_nav" android:checkableBehavior="all">
+        <item
+            android:id="@+id/nav_main"
+            android:title="@string/titleMainActivity"
+            />
+        <item
+            android:id="@+id/nav_products"
+            android:title="@string/titleProductsFragment" />
+        <item
+            android:id="@+id/nav_history"
+            android:title="@string/titleHistoryFragment" />
+        <item
+            android:id="@+id/nav_favorites"
+            android:title="@string/titleFavouritesFragment" />
+        <item
+            android:id="@+id/nav_cart"
+            android:title="@string/titleCheckOutFragment" />
+        <item
+            android:id="@+id/nav_money"
+            android:title="@string/titleAddMoneyFragment" />
+
+    </group>
+
+    <!-- PARA QUE SE VEA LA LINIA DIVISORIA ENTRE GROUPS HAY QUE DEFINIR ID -->
+    <group android:id="@+id/nav_othernav" android:checkableBehavior="all" >
+        <item
+            android:id="@+id/nav_config"
+            android:title="@string/titleConfigurationActivity" />
+        <item
+            android:id="@+id/nav_about"
+            android:title="@string/titleAboutActivity" />
+    </group>
+
+</menu>

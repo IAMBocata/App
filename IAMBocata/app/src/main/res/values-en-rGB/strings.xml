@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IAM Bocata</string>
+    <string name="laEtUsernameHint">User</string>
+    <string name="glaBtnOther">Don\'t have Google account?</string>
+    <string name="TextQR">Show this QR code to the bar staff in order to get identified and allowed to deposit money</string>
+    <string name="addProductToCheckOut">ADD TO CARD</string>
+    <string name="valorsNutricionalsButton">VEURE VALORS NUTRICIONALS</string>
+    <string name="laEtPasswordHint">Password</string>
+    <string name="laBtnLogin">LOGIN</string>
+    <string name="paEtUnits">Qty</string>
+    <string name="titleIngredients">Ingredients:</string>
+    <string name="titleProductsFragment">Products</string>
+    <string name="titleHistoryFragment">Shopping History</string>
+    <string name="titleFavouritesFragment">Favourite Products</string>
+    <string name="titleCheckOutFragment">Check Out</string>
+    <string name="titleAddMoneyFragment">Add Money</string>
+    <string name="titleConfigurationActivity">Settings</string>
+    <string name="titleHelpActivity">Help</string>
+    <string name="titleAboutActivity">About IAM Bocata</string>
+    <string name="titleMainActivity">Main Page</string>
+    <string name="googleloginerror">User disabled.</string>
+    <string name="aboutLicenses">LICENSE</string>
+    <string name="aboutVersion">Version 1.0</string>
+    <string name="last_prod_added">Last product added</string>
+    <string name="daily_product">Product of the day</string>
+    <string name="loginerror">User/password invalid</string>
+    <string name="titleLogoutPreferenceButton">Log out</string>
+    <string name="notifications">Notifications activated</string>
+</resources>

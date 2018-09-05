@@ -1,0 +1,79 @@
+{
+  "project_info": {
+    "project_number": "183138410415",
+    "firebase_url": "https://iambocata.firebaseio.com",
+    "project_id": "iambocata",
+    "storage_bucket": "iambocata.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183138410415:android:7aad9243962b3e65",
+        "android_client_info": {
+          "package_name": "cat.iam.bocatas.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183138410415-2l6vdsksoqs3psri718mou6ase6nl24i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cat.iam.bocatas.app",
+            "certificate_hash": "780279528091334ab6a5b301fe0af47b107b31ff"
+          }
+        },
+        {
+          "client_id": "183138410415-7of9qe29nahct5t3j8e88grl8kr4kpjh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cat.iam.bocatas.app",
+            "certificate_hash": "4ee436f3fed47ce98284821da316fb70f0617090"
+          }
+        },
+        {
+          "client_id": "183138410415-lu3qpurr6li0046al9l5t584s0oh06be.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cat.iam.bocatas.app",
+            "certificate_hash": "dc19421a3933e9fc192b24948bf8f71778b751e9"
+          }
+        },
+        {
+          "client_id": "183138410415-dlod3gs7nl5iji2p0hnrtfp8b9uev90j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cat.iam.bocatas.app",
+            "certificate_hash": "c9f9aa070283958747c1c3a7709901ea5d0c247d"
+          }
+        },
+        {
+          "client_id": "183138410415-c0sik8moio4glfnfhgq8je5bdlqls99o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPIr18Xm8JRhdgZ3yO4Zf9k1bczy_UYm4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183138410415-c0sik8moio4glfnfhgq8je5bdlqls99o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">IAM Bocata</string>
+    <string name="glaBtnOther">No entres amb compte de Google?</string>
+    <string name="laEtUsernameHint">Usuari</string>
+    <string name="laEtPasswordHint">Contrasenya</string>
+    <string name="laBtnLogin">ENTRA</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="transitionname_product" translatable="false">transitionProduct</string>
+    <string name="paEtUnits">Unitats</string>
+    <string name="titleIngredients">Ingredients:</string>
+    <string name="exampleIngredients" translatable="false">- Pa\n- Hamburguesa\n- Enciam\n- Bacon Flama\n- Tomàquet</string>
+    <string name="transitionname_picture" translatable="false">transitionnamepicture</string>
+    <string name="bocatanameexample_card" translatable="false">Hamburguesaka</string>
+    <string name="TextQR">Ensenya aquest codi QR al personal del bar per tal de que et puguin identificar i ingressar-te els diners.</string>
+    <string name="addProductToCheckOut">AFEGEIX A LA CISTELLA</string>
+    <string name="titleProductsFragment">Productes</string>
+    <string name="titleHistoryFragment">Historial de compres</string>
+    <string name="titleFavouritesFragment">Productes preferits</string>
+    <string name="titleCheckOutFragment">Cistella</string>
+    <string name="titleAddMoneyFragment">Afegir Diners</string>
+    <string name="titleConfigurationActivity">Configuració</string>
+    <string name="titleHelpActivity">Ajuda</string>
+    <string name="titleAboutActivity">Sobre IAM Bocata</string>
+    <string name="titleMainActivity">Pàgina principal</string>
+    <string name="keyLogoutPreferenceButton" translatable="false">logoutPreferenceButton</string>
+    <string name="titleLogoutPreferenceButton">Tancar Sessió</string>
+    <string name="laEtMailHint" translatable="false">E-Mail</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+    <string name="loginerror">Usuari/contrasenya invalides</string>
+    <string name="googleloginerror">Usuari deshabilitat.</string>
+    <string name="daily_product">Producte del dia</string>
+    <string name="last_prod_added">Afegit recentment</string>
+    <string name="aboutVersion">Versió 1.0</string>
+    <string name="aboutLicenses">LLICÈNCIA</string>
+    <string name="notifications">Notificacions Activades</string>
+
+
+</resources>

@@ -1,0 +1,10 @@
+cat.iam.bocatas.app
+cat.iam.bocatas.app.adapters
+cat.iam.bocatas.app.bbdd
+cat.iam.bocatas.app.model
+cat.iam.bocatas.app.serverconnection
+cat.iam.bocatas.app.service
+cat.iam.bocatas.app.views
+cat.iam.bocatas.app.views.fragments
+cat.iam.bocatas.app.views.login
+cat.iam.bocatas.app.views.settings
